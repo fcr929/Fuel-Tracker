@@ -1,6 +1,0 @@
-{
-  "name": "FuelTracker",
-  "description": "Native Android app to track vehicle refuels, display statistics and line/bar charts, and export data as CSV, with Room local storage.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
