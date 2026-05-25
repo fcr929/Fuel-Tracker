@@ -1,0 +1,6 @@
+STATUS & ERRORS:
+fatal: not a git repository (or any of the parent directories): .git
+
+
+LOG & ERRORS:
+fatal: not a git repository (or any of the parent directories): .git

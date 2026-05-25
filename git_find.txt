@@ -1,0 +1,3 @@
+Checking: /app/applet -> .git exists: false
+Checking: /app -> .git exists: false
+Checking: / -> .git exists: false
