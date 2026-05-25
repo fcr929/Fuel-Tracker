@@ -145,15 +145,4 @@ The file opens directly in Microsoft Excel and LibreOffice Calc without any addi
 
 ---
 
-## 📋 Roadmap
-
-- [ ] Google Play Store release
-- [ ] Home screen widget showing the last refuel
-- [ ] Optional automatic backup to Google Drive
-- [ ] Electric vehicle support (kWh instead of liters)
-- [ ] Multi-vehicle comparison on the same chart
-- [ ] Additional language support beyond EN and ES
-
----
-
 *Built with ❤️ and plenty of fuel.*
